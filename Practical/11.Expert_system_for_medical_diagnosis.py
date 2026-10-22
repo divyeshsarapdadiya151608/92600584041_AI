@@ -1,4 +1,6 @@
 #Develop an Expert system for medical diagnosis.
+#Name:Divyesh Sarapdadiya
+#Enrollment no:92600584041
 print("===== Expert System =====")
 print("Answer the following questions with yes or no.")
 
