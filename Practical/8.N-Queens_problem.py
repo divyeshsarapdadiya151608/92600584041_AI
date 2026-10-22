@@ -1,4 +1,6 @@
 #Write a program to solve N-Queens problem.
+#Name:Divyesh Sarapdadiya
+#Enrollment no:92600584041
 def solve_n_queens(n):
     board = [-1] * n
 
