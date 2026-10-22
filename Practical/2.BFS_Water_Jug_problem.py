@@ -1,3 +1,6 @@
+#Implement Breadth First Search (for Water Jug problem).
+#Name:Divyesh Sarapdadiya
+#Enrollment no:92600584041
 CAP_A = 4
 CAP_B = 3
 GOAL = 2
