@@ -1,4 +1,6 @@
 #Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).
+#Name:Divyesh Sarapdadiya
+#Enrollment no:92600584041
 def display(board):
     print()
     print(board[0], "|",board[1], "|",board[2])
