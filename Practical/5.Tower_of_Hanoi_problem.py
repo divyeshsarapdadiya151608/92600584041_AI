@@ -1,4 +1,6 @@
 #Write a program to solve Tower of Hanoi problem
+#Name:Divyesh Sarapdadiya
+#Enrollment no:92600584041
 def tower_of_hanoi(n,source,helper,destination):
     
     if n == 1:
